@@ -204,19 +204,3 @@ This code is for **research and educational** purposes only. Markets carry risk.
 
 **MIT** — see [`LICENSE`](LICENSE).
 
----
-
-### How to upload this `README.md` to GitHub
-
-* **Yes**: you can **drag & drop** this file via **Add file → Upload files** on your repo page, then **Commit changes**.
-* Or from your computer:
-
-  ```bash
-  # from the repo folder
-  echo "<paste the README content into README.md>" > README.md
-  git add README.md
-  git commit -m "Add README"
-  git push origin main
-  ```
-
-Want me to also generate a `requirements.txt` and a clean folder tree you can upload in one shot?
